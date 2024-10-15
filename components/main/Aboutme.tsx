@@ -14,7 +14,7 @@ const Aboutme = () => {
         <div className='md:w-[500px] pt-6 overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]'>
         <h2 className='text-3xl font-semibold text-white'>Start of the Journey</h2>
         <p className='ml-5 mr-5 mt-2 text-gray-300'>
-        I started my programming journey during the first semester of my Computer Science degree. My first contact with development was with Python, a language that sparked my curiosity and desire to learn. Thanks to a relative, I had the opportunity to take on my first freelance project, creating a website for a popular restaurant in Guará. Despite my inexperience, I accepted the challenge, and after a period of intense study, I was able to deliver software that is still in use today. Since that moment, I fell in love with development and continue to evolve, seeking to learn everything I don't know and improve my skills.
+        I started my programming journey during the first semester of my Computer Science degree. My first contact with development was with Python, a language that sparked my curiosity and desire to learn. Thanks to a relative, I had the opportunity to take on my first freelance project, creating a website for a popular restaurant in Guará. Despite my inexperience, I accepted the challenge, and after a period of intense study, I was able to deliver software that is still in use today. Since that moment, I fell in love with development and continue to evolve, seeking to learn everything I dont know and improve my skills.
         </p>
         <div className='pt-6'>
         <h2 className='text-3xl font-semibold text-white'>Professional Goals</h2>
