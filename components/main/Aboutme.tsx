@@ -12,19 +12,14 @@ const Aboutme = () => {
         </div>
 
         <div className='md:w-[500px] pt-6 overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]'>
-        <h2 className='text-3xl font-semibold text-white'>Início da Jornada</h2>
+        <h2 className='text-3xl font-semibold text-white'>Start of the Journey</h2>
         <p className='ml-5 mr-5 mt-2 text-gray-300'>
-          Comecei minha trajetória na programação durante o primeiro semestre da faculdade de Ciências da Computação. 
-          Meu primeiro contato com o desenvolvimento foi com Python, uma linguagem que despertou minha curiosidade e desejo de aprender. 
-          Graças a um familiar, tive a oportunidade de realizar meu primeiro freelance, criando um projeto para um restaurante popular do Guará. 
-          Apesar da minha inexperiência, aceitei o desafio e, após um período de estudo intenso, consegui entregar um software que continua 
-          a ser utilizado até hoje. Desde esse momento, me apaixonei pelo desenvolvimento e sigo em constante evolução, 
-          buscando aprender tudo o que ainda não sei e aprimorar minhas habilidades.
+        I started my programming journey during the first semester of my Computer Science degree. My first contact with development was with Python, a language that sparked my curiosity and desire to learn. Thanks to a relative, I had the opportunity to take on my first freelance project, creating a website for a popular restaurant in Guará. Despite my inexperience, I accepted the challenge, and after a period of intense study, I was able to deliver software that is still in use today. Since that moment, I fell in love with development and continue to evolve, seeking to learn everything I don't know and improve my skills.
         </p>
         <div className='pt-6'>
-        <h2 className='text-3xl font-semibold text-white'>Objetivo Profissional</h2>
+        <h2 className='text-3xl font-semibold text-white'>Professional Goals</h2>
         <p className='ml-5 mr-5 mt-2 text-gray-300'>
-          Meu objetivo é adquirir novas experiências e crescer como desenvolvedor. Estou focado em tornar minhas linhas de código mais inteligentes e minhas estruturas mais elaboradas, sempre seguindo as melhores práticas de arquitetura e clean code. Acredito que a qualidade do código é fundamental para o sucesso de qualquer projeto.
+        My goal is to acquire new experiences and grow as a developer. I am focused on making my code more efficient and my structures more sophisticated, always following the best practices of architecture and clean code. I believe that code quality is fundamental to the success of any project.
         </p>
         </div>
         </div>

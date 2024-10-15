@@ -14,7 +14,7 @@ const Experience = () => {
             </div>
             <img className='mx-auto' src='./febracis.jpg' width={500}/>
             <p className='mt-2 text-gray-300'>
-            Atuei como desenvolvedor na Febracis Lisboa, onde tive a oportunidade de criar landing pages para diversos clientes, incluindo pessoas influentes como Paulo Vieira e Nivia Oliveira. Essa experiência me permitiu não apenas aplicar minhas habilidades técnicas, mas também entender a importância de atender às necessidades dos usuários e clientes.
+            I worked as a developer at Febracis Lisboa, where I had the opportunity to create landing pages for various clients, including influential people like Paulo Vieira and Nivia Oliveira. This experience allowed me to not only apply my technical skills but also understand the importance of meeting the needs of users and clients.
             </p>
         </section>
         </div>
@@ -26,7 +26,7 @@ const Experience = () => {
             </div>
             <img className='mx-auto' src='./NTSEC.jpg' width={500}/>
             <p className='mt-2 text-gray-300'>
-            Atuei como suporte técnico na NTSEC, onde tive a oportunidade de ajudar clientes a resolver problemas técnicos e fornecer soluções para suas necessidades. Essa experiência me permitiu desenvolver minhas habilidades de comunicação, trabalho em equipe, noções de redes e cybersecurity. 
+            I worked as a technical support specialist at NTSEC, where I had the opportunity to help clients resolve technical issues and provide solutions for their needs. This experience allowed me to develop my communication skills, teamwork abilities, as well as my knowledge of networking and cybersecurity.
             </p>
         </section>
         </div>
