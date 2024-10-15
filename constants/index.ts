@@ -168,6 +168,12 @@ export const Skill_data = [
       height: 80,
     },
     {
+        skill_name: "Python",
+        Image: "/python.png",
+        width: 80,
+        height: 80,
+      },
+    {
       skill_name: "Express js",
       Image: "/express.png",
       width: 80,
@@ -209,6 +215,12 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
+    {
+        skill_name: "Cypress",
+        Image: "/cypress.webp",
+        width: 80,
+        height: 80,
+      },
   ];
   
   export const Full_stack = [

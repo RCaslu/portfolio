@@ -1,4 +1,3 @@
-import { Socials } from '@/constants'
 import React from 'react'
 
 export const Navbar = () => {

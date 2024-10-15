@@ -1,6 +1,6 @@
 "use client"
 
-import { slideInFromLeft, slideInFromRight, slideInFromTop } from '@/utils/motion'
+import { slideInFromLeft, slideInFromTop } from '@/utils/motion'
 import { motion } from 'framer-motion'
 import { SparklesIcon } from '@heroicons/react/24/solid';
 import { Badge } from '../ui/badge';
@@ -17,7 +17,7 @@ export const SkillsText = () => {
             <SparklesIcon className='text-[#b49bff] mr-[10px] h-5 w-5' />
             {/* <h1 className='Welcome-text text-[20px]'>Welcome to</h1> */}
             <Badge className='Welcome-text text-[15px]'>
-                Think better with Next JS and Tailwind CSS
+                Think better with Next JS, React and Tailwind CSS
             </Badge>
         </motion.div>
 
@@ -29,13 +29,6 @@ export const SkillsText = () => {
         </motion.div>
 
 
-        {/* CHANGE FONTS */}
-        <motion.div
-        variants={slideInFromRight(0.5)}
-        className='cursive text-[20px] text-gray-200 mb-10 mt-[10px] text-center'
-        >
-            Never miss a task, deadline or idea
-        </motion.div>
     </div>
   )
 }

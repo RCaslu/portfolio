@@ -1,33 +1,36 @@
-import React from 'react'
-import ProjectCard from '../sub/ProjectCard'
+import React from 'react';
+import ProjectCard from '../sub/ProjectCard';
 
 export const Projects = () => {
   return (
     <div 
-    id='projects'
-    className='flex flex-col items-center justify-center py-20'>
-        <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
+      id='projects'
+      className='flex flex-col items-center justify-center py-20'
+    >
+      <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
         My Projects
       </h1>
 
-        {/* TRANSFORM TO CARROSSEL */}
-        <div className='h-full w-full flex flex-col md:flex-row gap-10 px-10'>
+      <div className='h-full w-full flex flex-col md:flex-row gap-10 px-10'>
         <ProjectCard
-          src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          githubLink='https://vercel.live/link/barbershop-rosy.vercel.app?via=project-screenshot&p=1'
+          src="/barbershop.png"
+          title="BarberShop WebApp"
+          description="O BarberShop App é uma aplicação web com foco mobile desenvolvida para facilitar o agendamento de serviços em barbearias. Os usuários podem selecionar uma barbearia, agendar serviços, cancelar agendamentos, autenticar-se com o Google, pesquisar por barbearias ou serviços e verificar seus agendamentos futuros."
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          githubLink='https://lp-nivia-oliveira.vercel.app/'
+          src="/nivia.png"
+          title="LP Nivia Oliveira"
+          description="Projeto desenvolvido para Nivia Oliveira com o intuito de divulgar a campanha Mulheres de alta Performance exclusiva para mulheres. Para este projeto, foi utilizado Next.js, TailwindCSS, React e Firebase para armazenamento dos dados utilizados no forms."
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          githubLink='https://fcis-updated.vercel.app/'
+          src="/FCIS.png"
+          title="FCIS"
+          description="Projeto desenvolvido para o Método CIS criado por Paulo Vieira. Projeto foi exibido em Portugal, Algarve, Suiça e outros países. Para este projeto, foi utilizado Next.js, TailwindCSS, React e Firebase para armazenamento dos dados utilizados no forms."
         />
-        </div>
+      </div>
     </div>
-  )
+  );
 }

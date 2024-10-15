@@ -6,7 +6,7 @@ const Aboutme = () => {
         <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
         About Me
       </h1>
-      <div className='md:flex justify-center space-x-6 '>
+      <div className='md:flex justify-center md:space-x-6 '>
         <div className='overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]'>
             <img className='md:w-[500px]' src='./profileimage.jpg' />
         </div>
