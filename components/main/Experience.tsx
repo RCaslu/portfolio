@@ -6,7 +6,7 @@ const Experience = () => {
       <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
         Experience
       </h1>
-      <div className='md:flex justify-center p-4 space-y-12 xl:space-y-0'>
+      <div className='md:flex justify-center md:p-4 space-y-12 xl:space-y-0'>
         <div className='md:w-[670px] overflow-hidden rounded-lg shadow-lg border border-[#2A0E61] '>
         <section className='my-8 justify-center'>
             <div className='pb-2'>
