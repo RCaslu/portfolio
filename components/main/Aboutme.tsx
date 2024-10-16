@@ -8,7 +8,7 @@ const Aboutme = () => {
       </h1>
       <div className='md:flex justify-center md:space-x-6 '>
         <div className='overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]'>
-            <img className='md:w-[500px]' src='./profileimage.jpg' />
+            <img className='md:w-[500px]' src='./image.jpeg' />
         </div>
 
         <div className='md:w-[500px] pt-6 overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]'>
