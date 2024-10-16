@@ -9,7 +9,7 @@ interface Props {
 
 const ProjectCard: React.FC<Props> = ({ src, title, description, githubLink }) => {
   return (
-    <div className='relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61] cursor-pointer z-50'>
+    <div className='relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61] cursor-pointer z-40'>
       <img 
         src={src}
         alt={title}
