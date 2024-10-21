@@ -16,19 +16,19 @@ export const Projects = () => {
           githubLink='https://vercel.live/link/barbershop-rosy.vercel.app?via=project-screenshot&p=1'
           src="/barbershop.png"
           title="BarberShop WebApp"
-          description="O BarberShop App é uma aplicação web com foco mobile desenvolvida para facilitar o agendamento de serviços em barbearias. Os usuários podem selecionar uma barbearia, agendar serviços, cancelar agendamentos, autenticar-se com o Google, pesquisar por barbearias ou serviços e verificar seus agendamentos futuros."
+          description="The BarberShop App is a mobile-focused web application developed to facilitate the scheduling of services in barbershops. Users can select a barbershop, schedule services, cancel appointments, authenticate with Google, search for barbershops or services, and check their upcoming appointments."
         />
         <ProjectCard
           githubLink='https://lp-nivia-oliveira.vercel.app/'
           src="/nivia.png"
           title="LP Nivia Oliveira"
-          description="Projeto desenvolvido para Nivia Oliveira com o intuito de divulgar a campanha Mulheres de alta Performance exclusiva para mulheres. Para este projeto, foi utilizado Next.js, TailwindCSS, React e Firebase para armazenamento dos dados utilizados no forms."
+          description="Project developed for Nivia Oliveira to promote the exclusive high-performance women campaign. For this project, Next.js, TailwindCSS, React, and Firebase were used for storing the data used in the forms."
         />
         <ProjectCard
           githubLink='https://fcis-updated.vercel.app/'
           src="/FCIS.png"
           title="FCIS"
-          description="Projeto desenvolvido para o Método CIS criado por Paulo Vieira. Projeto foi exibido em Portugal, Algarve, Suiça e outros países. Para este projeto, foi utilizado Next.js, TailwindCSS, React e Firebase para armazenamento dos dados utilizados no forms."
+          description="Project developed for the CIS Method created by Paulo Vieira. The project was showcased in Portugal, Algarve, Switzerland, and other countries. For this project, Next.js, TailwindCSS, React, and Firebase were used for storing the data used in the forms."
         />
       </div>
     </div>
